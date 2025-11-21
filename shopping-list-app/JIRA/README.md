@@ -1,6 +1,6 @@
 # Shopping List App
 
-## Issues reported in Jira
+## Bugs reported in Jira
 
 | Name    | Screenshot |
 | :------- | :------- |
@@ -11,4 +11,4 @@
 | not all units are displayed in their abbreviated form | [SLB-5](SLB-5.png) |
 | "unit" field does not contain all units | [SLB-6.1](SLB-1.png), [SLB-6.2](SLB-6.2.png) |
 
-<img src="table-of-contents.png" alt="List of reported issues" />
+<img src="table-of-contents.png" alt="List of reported bugs" />
