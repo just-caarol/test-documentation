@@ -9,7 +9,7 @@
 
 - <a href="https://github.com/just-caarol/test-documentation/blob/master/shopping-list-app/test-scenarios-cases">Test Cases and Scenarios</a>
 
-- <a href="https://github.com/just-caarol/test-documentation/tree/master/shopping-list-app/Jira">Issues reported in Jira</a>
+- <a href="https://github.com/just-caarol/test-documentation/tree/master/shopping-list-app/JIRA">Issues reported in Jira</a>
 
 #### Bug Report
 
