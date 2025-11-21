@@ -1,4 +1,4 @@
-# Shopping List App - Test Evidence
+# Shopping List App - Test Documentation
 
 This directory contains of two directories
 
