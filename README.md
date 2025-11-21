@@ -2,7 +2,7 @@
 --
 ![communication](https://img.shields.io/badge/communication-808080?style=flat-square)
 ![detail oriented](https://img.shields.io/badge/detail%20oriented-808080?style=flat-square)
-![analytical thinking](https://img.shields.io/badge/analytical%20thinking-808080?style=flat)  
+![analytical thinking](https://img.shields.io/badge/analytical%20thinking-808080?style=flat)
 ![regression testing](https://img.shields.io/badge/regression%20testing-808080?style=flat)
 ![excellent granularity](https://img.shields.io/badge/excellent%20granularity-808080?style=flat)
 ![precision](https://img.shields.io/badge/precision-808080?style=flat)
