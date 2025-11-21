@@ -3,7 +3,7 @@
 ## Issues reported in Jira
 
 | Name    | Screenshot |
-| -------- | ------- |
+| :------- | :------- |
 | "name" field does not allow capital letters  | [SLB-1](SLB-1.png)    |
 | "unit" field - unit in the dropdown list are not sorted alphabetically | [SLB-2](SLB-2.png)     |
 | "clear list" button is active when the list is empty    | [SLB-3](SLB-3.png)    |
