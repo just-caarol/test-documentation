@@ -1,4 +1,5 @@
 # Shopping List App
+![test scenarios](https://img.shields.io/badge/test%20scenarios-7-green.svg) ![test cases](https://img.shields.io/badge/test%20cases-40-blue.svg)
 
 ## Test Cases and Scenarios
 
