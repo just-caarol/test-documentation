@@ -1,5 +1,5 @@
 # Shopping List App
-![test scenarios](https://img.shields.io/badge/test%20scenarios-green.svg) ![test cases](https://img.shields.io/badge/test%20cases-blue.svg)
+![test scenarios](https://img.shields.io/badge/test%20scenarios-gray.svg) ![test cases](https://img.shields.io/badge/test%20cases-gray.svg)
 
 ## Test Cases and Scenarios
 
