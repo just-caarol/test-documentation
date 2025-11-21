@@ -6,7 +6,8 @@
 ![regression testing](https://img.shields.io/badge/regression%20testing-808080?style=flat)
 ![excellent granularity](https://img.shields.io/badge/excellent%20granularity-808080?style=flat)
 ![precision](https://img.shields.io/badge/precision-808080?style=flat)
-# Test Documentations
+
+# Test Documentation
 
 ## Table of contents
 
