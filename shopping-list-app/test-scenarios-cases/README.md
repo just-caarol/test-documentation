@@ -3,7 +3,7 @@
 
 ## Test Cases and Scenarios
 
-Test cases and scenarios created in Excel for testing my "shopping list app".
+Test cases and test scenarios created in Excel for testing my "Shopping list app".
 
 ### Description
 
