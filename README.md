@@ -4,7 +4,7 @@
 ![detail oriented](https://img.shields.io/badge/detail%20oriented-808080?style=flat-square)
 ![analytical thinking](https://img.shields.io/badge/analytical%20thinking-808080?style=flat)
 ![regression testing](https://img.shields.io/badge/regression%20testing-808080?style=flat)
-![excellent granularity](https://img.shields.io/badge/excellent%20granularity-808080?style=flat)
+![fast lerner](https://img.shields.io/badge/fast%20lerner-808080?style=flat)
 ![precision](https://img.shields.io/badge/precision-808080?style=flat)
 
 # Test Documentation
