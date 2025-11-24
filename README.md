@@ -9,10 +9,10 @@
 
 # Test Documentation
 
-## Table of contents
+<!--## Table of contents
 
 🛒 [Shopping List Application](#Shopping-List-Application)  
-🛠️ [Various Bugs](#Various-Bugs)
+🛠️ [Various Bugs](#Various-Bugs)-->
 
 ## <p align="justify"><a href="https://github.com/just-caarol/shopping-list-app" target="_blank">Shopping List Application </a></p> 
 
