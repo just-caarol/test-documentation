@@ -21,4 +21,4 @@
 
 ## Various Bugs
 
-<p align="justify"><a href="https://github.com/just-caarol/various-bugs" target="_blank"> Various bugs found on the Internet </a></p>
+<p align="justify"><a href="https://github.com/just-caarol/test-documentation/tree/master/various-bugs" target="_blank"> Various bugs found on the Internet </a></p>
