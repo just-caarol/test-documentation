@@ -21,6 +21,8 @@
 
 ## Various Bugs
 
+Various bugs found on the Internet
+
 | Name    | Screenshot |
 | :------- | :------- |
 | menu bar is cut off when reducing the browser window size (LeroyMerlin)  | [VB-1](VB-1.png)    |
