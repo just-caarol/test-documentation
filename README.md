@@ -14,7 +14,7 @@
 🛒 [Shopping List Application](#Shopping-List-Application)  
 🛠️ [Various Bugs](#Various-Bugs)
 
-## Shopping List Application
+## <p align="justify"><a href="https://github.com/just-caarol/shopping-list-app" target="_blank">Shopping List Application </a></p> 
 
 👩‍🔬 <a href="https://github.com/just-caarol/test-documentation/blob/master/shopping-list-app/test-scenarios-cases">Test Cases and Scenarios</a>  
 📖 <a href="https://github.com/just-caarol/test-documentation/tree/master/shopping-list-app/JIRA">Bugs reported in Jira</a>
