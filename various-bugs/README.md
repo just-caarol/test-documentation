@@ -1,5 +1,7 @@
 # Various Bugs - Test Documentation
 
+## List of bugs reported in Jira reporting system:
+
 | Name    | Screenshot |
 | :------- | :------- |
 | menu bar is cut off when reducing the browser window size (LeroyMerlin)  | [VB-1](VB-1.png)    |
